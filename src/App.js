@@ -6,7 +6,6 @@ function App(params) {
       <p>
         I made this React App without using <b>create-react-app</b> command.
       </p>
-      <p></p>
     </>
   );
 }
